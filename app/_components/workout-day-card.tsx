@@ -56,7 +56,7 @@ export function WorkoutDayCard({
           <div className="flex items-center gap-1">
             <Timer className="size-3.5 text-background/70" />
             <span className="font-heading text-xs text-background/70">
-              {durationInMinutes}min
+              {durationInMinutes} min
             </span>
           </div>
           <div className="flex items-center gap-1">
